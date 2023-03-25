@@ -1,2 +1,3 @@
 # terraform-ofa
-Oprimal Flexible Archechture for Terraform Project
+
+Optimal Flexible Archechture for Terraform Project
